@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7dbada4e-9656-4594-b034-e23b77c11d34" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../Program Files/Apache/maven" />
+        <option name="userSettingsFile" value="C:\Program Files\Apache\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lUxxXN4eun9QY7q2mib7USlDJ9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="li.murphy.io.nio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BIOClient (1)">
+    <configuration name="BIOClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="li.murphy.io.nio.BIOClient" />
+      <module name="JavaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="li.murphy.io.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BIOClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="li.murphy.io.bio.legacy.BIOClient" />
+      <module name="JavaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="li.murphy.io.bio.legacy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BIOServerOptimize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="li.murphy.io.bio.optimize.BIOServerOptimize" />
+      <module name="JavaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="li.murphy.io.bio.optimize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIOClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="li.murphy.io.nio.NIOClient" />
+      <module name="JavaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="li.murphy.io.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIOServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="li.murphy.io.nio.NIOServer" />
+      <module name="JavaIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="li.murphy.io.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BIOClient (1)" />
+        <item itemvalue="Application.NIOServer" />
+        <item itemvalue="Application.NIOClient" />
+        <item itemvalue="Application.BIOClient" />
+        <item itemvalue="Application.BIOServerOptimize" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dbada4e-9656-4594-b034-e23b77c11d34" name="Default Changelist" comment="" />
+      <created>1607665717770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607665717770</updated>
+      <workItem from="1607665722123" duration="5781000" />
+      <workItem from="1607671541563" duration="4625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="830" y="262" key="#com.intellij.ide.util.MemberChooser" timestamp="1607666034410">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="262" key="#com.intellij.ide.util.MemberChooser/395.1440.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607666034410" />
+    <state x="591" y="480" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1607668864609">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="591" y="480" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/395.1440.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607668864609" />
+    <state x="558" y="27" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607666080922">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="558" y="27" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/395.1440.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607666080922" />
+    <state width="2007" height="306" key="GridCell.Tab.0.bottom" timestamp="1607675812008">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2007" height="306" key="GridCell.Tab.0.bottom/395.1440.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607675812008" />
+    <state width="2007" height="306" key="GridCell.Tab.0.center" timestamp="1607675812008">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2007" height="306" key="GridCell.Tab.0.center/395.1440.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607675812008" />
+    <state width="2007" height="306" key="GridCell.Tab.0.left" timestamp="1607675812007">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2007" height="306" key="GridCell.Tab.0.left/395.1440.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607675812007" />
+    <state width="2007" height="306" key="GridCell.Tab.0.right" timestamp="1607675812008">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2007" height="306" key="GridCell.Tab.0.right/395.1440.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607675812008" />
+    <state width="2007" height="377" key="GridCell.Tab.1.bottom" timestamp="1607675811996">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2007" height="377" key="GridCell.Tab.1.bottom/395.1440.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607675811996" />
+    <state width="2007" height="377" key="GridCell.Tab.1.center" timestamp="1607675811995">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2007" height="377" key="GridCell.Tab.1.center/395.1440.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607675811995" />
+    <state width="2007" height="377" key="GridCell.Tab.1.left" timestamp="1607675811995">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2007" height="377" key="GridCell.Tab.1.left/395.1440.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607675811995" />
+    <state width="2007" height="377" key="GridCell.Tab.1.right" timestamp="1607675811995">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2007" height="377" key="GridCell.Tab.1.right/395.1440.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607675811995" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/li/murphy/io/nio/NIOServer.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
